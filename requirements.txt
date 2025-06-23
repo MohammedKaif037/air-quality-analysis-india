@@ -1,4 +1,32 @@
-pandas>=1.3.0
-matplotlib>=3.4.0
-seaborn>=0.11.0
+# Core Data Analysis Libraries
+pandas>=1.5.0
 numpy>=1.21.0
+
+# Visualization Libraries
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# Date and Time Handling
+datetime
+
+# Warning Management (built-in)
+warnings
+
+# Optional: Enhanced Data Analysis
+scipy>=1.9.0
+scikit-learn>=1.1.0
+
+# Optional: Jupyter Notebook Support (if running in notebooks)
+jupyter>=1.0.0
+ipython>=7.0.0
+
+# Optional: Enhanced Plotting
+plotly>=5.0.0
+
+# Optional: Statistical Analysis
+statsmodels>=0.13.0
+
+# Development Dependencies (Optional)
+pytest>=7.0.0
+black>=22.0.0
+flake8>=4.0.0
