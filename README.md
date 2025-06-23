@@ -63,6 +63,7 @@ python air_quality_analysis.py
 air-quality-analysis-india/
 │
 ├── air_quality_analysis.py    # Main analysis script
+├── air_quality_analysis.ipynb    # Main analysis Notebook File
 ├── requirements.txt           # Python dependencies
 ├── README.md                 # Project documentation
 ├── data/                     # Data directory (add your CSV files here)
