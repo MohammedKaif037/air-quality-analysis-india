@@ -49,7 +49,7 @@ pip install -r requirements.txt
 
 2. Update the CSV filename in the script:
 ```python
-df = pd.read_csv('your-air-quality-data.csv')
+df = pd.read_csv('air-quality-data.csv')
 ```
 
 3. Run the analysis:
